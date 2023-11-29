@@ -1,0 +1,33 @@
+* {
+   font-family: Georgia, serif;
+}
+
+html {
+    background-color: #DDF2FD;
+}
+
+.title {
+    text-align: center;
+}
+
+.title h1 {
+    font-size: 45px;
+}
+
+.center {
+    background-color: #9BBEC8;
+    border: #427D9D 4px solid;
+}
+
+.center h1 {
+    text-align: center;
+    margin: -5px 0px 0px 0px;
+    font-size: 35px;
+    border-bottom: #427D9D 4px solid;
+}
+
+.title h1 {
+    text-align: center;
+    background-color: #9BBEC8;
+    border-bottom: #427D9D 4px solid;
+} 
