@@ -3,7 +3,7 @@
 }
 
 html {
-    background-color: #DDF2FD;
+    background-color: #F5CCA0;
 }
 
 .title {
@@ -15,19 +15,19 @@ html {
 }
 
 .center {
-    background-color: #9BBEC8;
-    border: #427D9D 4px solid;
+    background-color: #E48F45;
+    border: #994D1C 4px solid;
 }
 
 .center h1 {
     text-align: center;
     margin: -5px 0px 0px 0px;
     font-size: 35px;
-    border-bottom: #427D9D 4px solid;
+    border-bottom: #994D1C 4px solid;
 }
 
 .title h1 {
     text-align: center;
-    background-color: #9BBEC8;
-    border-bottom: #427D9D 4px solid;
+    background-color: #E48F45;
+    border-bottom: #994D1C 4px solid;
 } 
